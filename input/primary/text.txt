@@ -1,0 +1,610 @@
+17:12:48 Okay, perfect.
+17:12:50 Hi, good evening.
+17:12:51 So I put up a survey on Tuesday, I hope, most of it filled it, please fill it before 5pm tomorrow. I think 2pm tomorrow, two or 5pm tomorrow I can't remember, but I put the deadline there, so that I know how to make the class fun, because on Tuesday we
+17:13:11 went into the max.
+17:13:13 And most of you were bored. So, today as try to bring up a whole lot of activities, because someone fills out the form and it was very helpful. So I'm hoping that we could see the practical.
+17:13:29 Still touch the mat a little bit because you need to understand the max, and then understand exactly how to apply to linear regressions get any questions before we start, questions, No questions for you.
+17:13:48 Okay, let me unmute everyone i'm going to assign somebody.
+17:13:53 I keep going to kill.
+17:14:01 Yeah, would pick somebody else as co host So please, he can just help me.
+17:14:02 I've met people into the room because I easily get distracted.
+17:14:08 I, for any questions, I see yes questions questions.
+17:14:15 Questions okay no questions.
+17:14:17 All right then, let's start so last class we talked about new new relationships, and I told you that the first step in finding a linear regression equation is to determine if this relationship between two variables.
+17:14:31 So, again, my popular example is house prices and location.
+17:14:37 And we could obviously do this by looking at the correlation coefficient and scatter plot so I uploaded some codes that that will teach you how to perform correlation in Python.
+17:14:49 And also code on how to come up with a scatter plot.
+17:14:52 Anyways, so when a correlation coefficient shows that the data is likely to be able to predict the future outcomes, and just cut up like a passive form a straight line, which is right here.
+17:15:04 You can use that to see if you can come up with a predictive function.
+17:15:08 Okay so example here is the sales variable which is dependent variable and the mark the marketing spent. It is an independent variable. So, think of this as if I spent X dollars of amount in marketing efforts.
+17:15:27 What will my sales likely be.
+17:15:29 And so once you put that on your graph. The next thing is to find a straight line that can explain the relationship.
+17:15:36 And from what you can see yeah you can say you can draw multiple lines but before we go into that, that go okay I signed a ma co course, if you can help me.
+17:15:51 Before we go into that let's go into a breakout room.
+17:15:53 So, I've uploaded a Python file, I'm going to check because DC connectors they misbehave it, but I'm going to upload a Python file. If you get some habit that has something called two variables called page speed and purchase amount.
+17:16:10 So think of Page Speed as the amount of user Spence. Sorry, as the speed of the, of the time a user spends scrolling through websites and the amount of money that you spend shopping on that website so think about it.
+17:16:25 Let me see what is unpopular to sign up for guys.
+17:16:33 I'm like, in my opinion, okay let's just go and maybe it's not popular for guys but people by Old Navy. So think about all Navy doing sales. Black Friday sales and me as the VP of Marketing Old Navy wants to see if this relationship between the speed
+17:16:50 at which you used to go to the next space, and the amount of money that you spent. Okay, so the first time that I have you do is to create a scatter plot for both variables to see if there's a linear relationship first of all through your plot.
+17:17:04 The second one is trying to come up with a regression regression line through the plot. And then the third one is come up with a linear regression model so I'm going to assign you about 10 minutes to do this.
+17:17:17 Now I'm going to put you in breakout rooms on your iPhone five please note the names of people during your breakout rooms because I'm going to be using it.
+17:17:27 Okay.
+17:17:27 All right.
+17:17:28 Yeah, question.
+17:17:30 Yes, be fine to beat us for one yes, I was going to show you guys. Bye.
+17:17:47 So let's go to DC
+17:17:55 to open and do you on.
+17:17:55 Just give me a minutes.
+17:17:56 There we go.
+17:17:57 And then there's.
+17:17:59 Connect.
+17:18:01 So if you go to DC Connect stuff.
+17:18:11 Okay, so let's go to content.
+17:18:14 And then I'm going to upload the final bow, the files, hopefully works this time.
+17:18:21 Finally, okay so let's go with pause for just one ad.
+17:18:30 Okay, so now I have to put you into breakout rooms so the thing is you click on this download it, you open it on your Python compiler.
+17:18:39 And then you can solve that. Okay, I'm going to show you what the, what exactly you have to do. So once you've downloaded that file.
+17:18:51 Create.
+17:18:54 Create a scatter plot for what variables.
+17:18:58 See the regression line on the scatter plot, and then run a linear model that so I'm going to give you. So let's just say it's 520. We're going to be back 530, and by 530 please upload the file I'm going to I'm going to put instructions on upload the
+17:19:16 file upload the file, and make sure that the file names of people in your groups, okay. It's okay.
+17:19:24 Yeah, obviously you have shared device and not the latency.
+17:19:29 I doesn't have to worry about data so I came up with the data set, manually.
+17:19:33 So, yeah, just once you look at the pack of five to see that let me open it show you guys what it looks like.
+17:19:44 stuff
+17:19:49 to call for, and then.
+17:19:57 Yeah. Oh, sorry, to open it from my co host.
+17:20:17 or it is this one.
+17:20:20 Okay, so this is the data. Right.
+17:20:24 And then, I already posted this kind of blood. It's okay. All you have to do is put a line in here.
+17:20:32 And I'm going to give you a hint on how to do that. So,
+17:20:40 minute. If you don't know how to do it I'm going to teach you how to do that.
+17:20:59 So.
+17:21:03 Okay, you know what, let me.
+17:21:08 I'm gonna I'm gonna I'm gonna upload another file don't use this one, because the author explains exactly what I did. So in case any of you are not familiar with Python, you can still follow this through.
+17:21:22 Upload.
+17:21:25 For.
+17:21:34 Yes, this one is so much better.
+17:21:38 Alright, so it's called passport activity problem.
+17:21:43 So, you should be able to see exactly what I needed to do and exactly what I did. Alright. So again, what do you have to do is create a scatter plot to feed a line within that I put a hint on how to fit a life.
+17:22:03 So this is a document.
+17:22:06 All you have to do is run this run this, that I put a hand on now to fit the line.
+17:22:14 So, this is the code that you need to plot your scatter diagram to fit the line, you need this code, all you have to do X and Y, based on this variables.
+17:22:29 And then also replace x in this variable, and then you be able to see what the line looks like, and then come up with a file is not open in MacBook. This is I have a MacBook.
+17:22:42 So you should actually download the file and openness, through your local host.
+17:22:49 Is anyone else having problems opening the file.
+17:22:57 Um, I don't find the file. So what do you have to do is Refresh.
+17:23:04 Refresh DC Connect if you can't find the file
+17:23:08 download it.
+17:23:11 Once you download it.
+17:23:14 Once you download.
+17:23:17 then go through your Python compiler so do you use Visual Studio to use, and our calendar. Open Jupiter. So for me, I just show you what I do, once I've downloaded the file.
+17:23:29 I go to Anaconda navigator.
+17:23:34 And then I click notebook.
+17:23:38 Right. I launched my notebook, it opens a terminal.
+17:23:42 And then it opens my local host.
+17:23:47 So what our advice is once you're in groups have somebody open the file.
+17:23:54 And, and shut the person on what you need them to do so. Okay.
+17:24:02 And if you're still having problems, let me see how best I can get you guys the cord.
+17:24:25 So, um, so I'm going to do is I'm going to copy to a Word document, I think maybe that should help.
+17:24:33 And you can pick the code from there.
+17:24:39 But that's not, It's not very physical.
+17:24:45 And people are having issues with opening the file.
+17:24:51 Just raise your hands. Let me see.
+17:24:54 Finish stop sharing now.
+17:24:59 Just raise your hands, okay one person.
+17:25:04 For sure hands to.
+17:25:07 Well, some issues with the file.
+17:25:10 Just three. Okay. Who else.
+17:25:15 Switch your hands.
+17:25:17 Okay, just three people, I'm going to put you in separate groups so you should better open it with your with your team.
+17:25:25 All right, because we're almost out of time so put you in breakout rooms.
+17:25:32 I'll make sure you're five in the room. So we have five breakout rooms.
+17:25:49 And then,
+17:25:46 yeah, so.
+17:25:49 Okay, so this is what it looks like. I'm going to put you in a breakout room now open all rooms, and a minute, put the message.
+17:26:00 again.
+17:26:00 right.
+17:45:57 So this is the solution.
+17:46:00 Can you see my screen.
+17:46:05 Can you see my screen now.
+17:46:08 Yes, we can see, I'm going to continue the recording perfect it stop it.
+17:46:16 Okay, so this is my screen again I just needed you you to walk on it so that I see where you are.
+17:46:24 I'm not going to great it so that you might be at rest.
+17:46:29 It's just going to help me to know what you're struggling. Okay, so, from the data, you can see that there's no linear relationship, like a clear linear relationship because it looks more like I could curved line, right.
+17:46:47 So, you might tell yourself. I could try to use a polynomial regression to fit the life or.
+17:46:54 I just fit the line straight.
+17:46:57 Now, as you can see right here.
+17:47:00 You can fit the line straight. You can also fit the line. This way you can fit the line, this way. There's so many ways you can fit the line that's correct.
+17:47:12 comes off as Yes, yes. Okay, perfect, because I'm trying to make it interactive so please help me Yes. Anyways, and then if you decide that I'm just going to fit one line, and you look at the R squared does The Iceman look good, thumbs up or thumbs down
+17:47:29 if it comes up, if it looks good, thumbs down.
+17:47:37 Or you can put it in the chat, it doesn't matter.
+17:47:37 It's 0.52.
+17:47:40 Okay.
+17:47:42 So, remember that we always wanted our script to be closer to one.
+17:47:47 But 0.5 is not the best.
+17:47:52 It's kind of its kind of show you that you actually not capturing the whole relationship because see, there's so many lines that you, there's so many points that you have a model out.
+17:48:01 Okay, so it's actually not the best line if you saw me this model. It's a basic model it doesn't really show that you've captured the relationship. Now the question goes for what is the best line for me to draw to actually capture this relationship.
+17:48:19 So I'm going to move back into our, our gradient descent. So I have a whiteboard right here that I did create, and we put it up on the screen.
+17:48:33 Yes. So, alright. Perfect.
+17:48:39 Now, let me, let me refresh your memory.
+17:48:44 Nope.
+17:48:48 Let me refresh your memory on
+17:48:54 time.
+17:48:56 Oh, okay. Good.
+17:48:59 Let me refresh your memory about what we learned. So remember that your equation should be y equals mx plus b, and is your intersects your bias. Remember I talked about if a baby's born, we assume the baby is three kg so three kids in this scenario is
+17:49:19 your m back your bias. X is the independent variable, the age of the baby is what the independent variable and Bs the past that. So if you plot, ignore.
+17:49:43 I really try to draw. If your plot alive right here, you can say, when the baby is three years, what is the weight on this is wrong.
+17:49:42 To should be.
+17:49:43 Not that we see if I can draw something here.
+17:49:51 Let me see if I can draw something here. Yeah.
+17:49:54 So for.
+17:49:56 And this is your, your weight in kg. And this is your age. So you can say, oh, when the baby is three months. What is the word. Oh, you Tracy to the line.
+17:50:09 This line should go this way.
+17:50:12 So this is your regression line. Okay, you trust it to the line, and you say oh the baby she'll be for kg. But now, this is how you come up with your linear equations.
+17:50:23 So, the one I showed you was majorly using the oil is method, but now we're going to use gradient descent. So let me explain what a gradient descent, and I have to stand up for this
+17:50:39 minute.
+17:50:42 Okay.
+17:50:42 All right, because I want to show you.
+17:50:45 I want to demonstrate something. Alright.
+17:50:51 So, let me go back to.
+17:50:54 Yeah. Alright, so now I'm going to use the illustration of a sport cat so you can understand.
+17:51:01 Imagine.
+17:51:03 I don't know if you get too familiar with God's is but I like them, I can afford them but I like them. So imagine this particular book it takes two minutes to get to this ball.
+17:51:13 Okay.
+17:51:15 There is not dataset you time did there was a race competition. It took two minutes. Now, if I have another car.
+17:51:24 And I tell the car. That said, I use, let's say when you use the same Bugatti, right, and I developed a model that can tell me okay I can predict along the car is supposed to take to hit this this ball this our ball here.
+17:51:41 Now the thing is, I can tell the car to go strict.
+17:51:44 I can tell the car to turn. Take a left and then take another ride, and then get to the ball, right. I can also tell the ball so I can tell the car to take.
+17:51:58 Yeah, this is not the best I can tell the car to go this way, and then go this way, and go this way right, there's so many paths to actually get to actually get in that exact fall.
+17:52:10 So at the end of the day, when I look at my predictions. If I tell, for example I tell the cop. Go.
+17:52:17 Go left. Go straight and go right, let's say takes the person, five minutes to get to this red ball. I can also tell the card to say hey just go straight just drive straight, and it could take the car, yet say 2.2 seconds.
+17:52:32 Next, 2.2 seconds. I can also tell the car to go right and then go straight, and then make another left, and he takes the car about 2.8 seconds, then you want to not peak, which was closer to the prediction, the origin no sorry which is because after
+17:52:52 the original the original time at the start, which is two minutes. So, I'm going to use an example of my laptop also and I'm going to link it to gradient descent.
+17:53:03 So this is where my computer is, is this way, if I'm standing this way. And I'm trying to turn to my computer, I can go this way.
+17:53:14 I'm not going the wrong way, I tell myself hey look this way. And then keep turning keep turning keep turning. Now, the speed at which I used to turn is what your particular about, but there's also something you much much particular about is the fact
+17:53:32 that I'm turning to the right direction. So what I'll have this links to gradient descent is one they something called a learning rate. So when I started this way, my original position, the landing web will tell me, call your point one.
+17:53:50 meters, more all calls you up on one second faster.
+17:53:55 Transfer though right now if I turn this way on my laptop, it's this way. It'll tell me, you need another 0.1 seconds, we'll move to the right, right, so that's actually your lending which is telling me how fast I need to turn.
+17:54:11 Now there's also something called the cost function admin explain what that is. Let's go back to the.
+17:54:20 Go back to the PDF. Wow. So, don't get lost. I explained what this is.
+17:54:27 When you have a me bring this up. Okay.
+17:54:34 So, imagine you have all of this. You have all this points. Can you see my screen. Yeah, I think so. Imagine you have all of this points, and you blow it up.
+17:54:45 You have all this point you can decide to draw a line, just the way you can tell me to turn this way to get to my laptop. You can also tell me to turn this way.
+17:54:53 Turn this way. Turn this way which is another way to think of it as another line. You can also tell it to say hey you know what, how about we to the line.
+17:55:01 Now the question begs, what is the best fit, which means, what is the best way for me to turn to see my laptop. So, therefore, when it comes to Greg MD said, it helps you find the best.
+17:55:16 Think of it this way, helps you find the best line with the minimum arrow function, which means helping you to find the best way to turn in such a way that it reduces the amount of arrows I have to make.
+17:55:28 Okay. So, if not this formula, but let me break it down for you before you decide to totally ignore it.
+17:55:38 Think of why one as to predict it. Okay, that's what your mother will speed up.
+17:55:43 Think of x plus one, as the original value.
+17:55:48 So, that way what you want to think about is how can I take, I can I subtract the arrows between my predicted.
+17:55:58 And my actual value remember sometimes it's a negative so you have to take the square.
+17:56:03 Okay so that took the signs don't cancel out.
+17:56:07 Now, how does algorithm works is that it's an optimization our guardian, in which it's trading instance is shown to the model at one time. So think of it this way, you have a whole dataset, it takes a sample.
+17:56:22 It shows the model, which is the model you built to say hey, what is the error rates. When I predict the car go two minutes, and the number of time was, let's say one minutes.
+17:56:35 It gives you the arrows okay this era.
+17:56:46 Anyways, so the model makes it prediction for training instance, the error is calculated and the model is updated to reduce the error.
+17:57:01 This procedure is actually repeated, a few number of times so think of it as trial and error. Okay, let's proceed your can be used to find a set of questions in a model that that results in the smallest arrow, all for the model.
+17:57:16 So, if I'd wait for each iteration the cost efficiency machine Lena updated is an equation to, that's all max okay let's move on. Now, this might go by ahead but I'm going to show you how to calculate it.
+17:57:28 Okay. So, when it comes to gradient descent. Remember that this is your linear equation, y is your target, or you're dependent variable, x is your independent variable, plus C which is your intersect.
+17:57:43 So, what he does, it takes this B which is the width. right. So, at the first instance I said, when the baby's born, the width right the width is. So when a baby is born, which is the wake of the baby which is also why tell me what the way it is based
+17:58:00 on the age the age was x. So, and I said that your see was your point seven five, and which every month the baby increases by 0.75. Now what is your be.
+17:58:15 So algorithm descent calculates to be. It takes the original be, so actually all to do is take the original d minus the learning rate. So think of my be, as, as my position when I stink here.
+17:58:32 This is my laptop, I'm standing at the ankle.
+17:58:38 Ankle let's say zero. Okay, my laptop is angle 60. So, my be is actually the weight, at which you used to turn here.
+17:58:47 I think that makes sense. So, times the error rate times x. So, I broke down the formula B's a question or with been optimized.
+17:59:02 I'm learning which is the learning rate at which you configure that's telling it move this number of steps, but, try, try to move your point 01 faster try to move 0.02 faster era is the prediction for the model on the training set.
+17:59:15 So, that's it will take your predicted value minus the original value, actual value data set, and extras your input variable, which your x is can be your the location of the house or can be the age of the baby stuff I got.
+17:59:28 Okay. So, what does gradient descent How does he work anyway great and this helps you find the best fit line for giving training data set in a small number of iterations.
+17:59:41 It puts several lines across your data sets and tries to find the good line with while measuring the square error. Okay. So, look up the shot. This lines right here.
+17:59:58 Actually, the, the predicted lies, for example, let's give it as an example.
+18:00:05 Now, this is your regression life, it tries to find sorry, this is your actual This is your actual data. This is your regression line, which computes the predictive prediction, it tries to, to find the errors between your, your actual and your predicted,
+18:00:22 and try to minimize it so keep telling the line to move forward, go forward, go forward. This is the original data set is your the line he asked like you said okay go 0.01.
+18:00:33 Step. Go editor 0.01 step until you find the best fit to fit my data. Okay. So, for language purposes, the sum of the square receivables is is a loss function.
+18:00:51 So that's exactly what you're trying to reduce you're trying to reduce the, the, the square errors between your predicted, and your actual.
+18:01:00 Ok. So, again, I've explained this, but this is the arrow. All right, you're trying to reduce.
+18:01:09 OK, So now let's look at how it works.
+18:01:13 So, I have to explain the math, but I have, I have another activity for you to do it, you're going to see how it works. It's so much fun. Okay, so let's understand how what before I move forward any questions.
+18:01:32 Questions.
+18:01:32 No questions. Okay, so I'll just run through this while I'm running through this. Can you go to DC connect again.
+18:01:42 Open.
+18:01:45 Go to contact.
+18:01:47 All right, now download this Greg and decent Excel problem one sheets, I'm going to show you how to calculate it manually use an Excel. It's not hard at all.
+18:02:00 It's not hard, and then we will then go to how to do it in Python. Okay, so that's open the Excel sheets.
+18:02:11 All right, download it on the class board.
+18:02:17 So let me go back to how good and decent works.
+18:02:22 I think just give it a minute or two for you guys to download that.
+18:02:31 So right 604, continue.
+18:02:54 Okay, let me give it a minute, or three, we'll start by you download the file so go to DC Connect coming to class for and download this particular file.
+18:02:59 Okay, so gradient descent problem one.
+18:03:06 Right.
+18:03:08 Okay, So,
+18:03:11 how does it work. Now, you initialize the values of a and b. Remember, that's the, the weight of your equation. Okay, so, kiss people got lost by what with is.
+18:03:28 So think about having been here. Yeah. So you initialize be, you start with a random guests.
+18:03:37 If you have two variables. Let's say x plus b, no be x plus a y plus C. So you have two variables age and location. So, sorry, let's use.
+18:04:05 Okay, let me use example, we're trying to predict the weight of the baby based on the age, and the height. So in this scenario, it is your height, please your Ah, ok.
+18:04:22 which is the error between across all data points, your training sex. based on your predictions, and then increase the value by plus one, and you check whether the value of the quotations.
+18:04:31 As a valid question that changing check if your arrow is increasing or decreasing, increasing again, or decrease based on what direction, and then repeat the steps over again, but I'll show you how to do it in Excel.
+18:04:44 And we do we all have the Excel sheet. Thumbs up.
+18:04:48 Thumbs up if you have to excel sheets.
+18:04:51 Can we all put in. Okay, good. I will continue once I see 10 people to Toronto.
+18:04:57 Perfect. Okay okay well I'm just guessing that three more thumbs up through more comes up.
+18:05:03 Y'all have it. Okay. Perfect. Thank you.
+18:05:06 So let's go to the Excel sheet. Now, let me bring up mine so I can show you how to do it. Okay, because we're going to be doing it together.
+18:05:19 You're going to see how it works. And you see that the map sometimes can be okay, there's a question here.
+18:05:26 Through this, are we finding the optimum values for the slope and intercept for the regression, we're actually finding the optimum value for for the slope.
+18:05:37 Okay. But the slope, which is the A and B.
+18:05:41 So, think about it that way first before we move to the intercept, okay. Just think of it I was trying to work with the, with the slope first.
+18:05:50 So let me bring up my own file, while we work in in file, file.
+18:05:59 Okay so so so.
+18:06:02 Alright, so I'm going to be walking you through how to do it.
+18:06:11 So, bit.
+18:06:15 And if, if you, if I'm too fast.
+18:06:19 If I'm too fast, please let me know. Okay, because I want us to get it right.
+18:06:27 So let me put this here.
+18:06:31 bring it out.
+18:06:38 Honestly, your screen just freeze actually. Yeah, as far as, you should have seen that. Yeah.
+18:06:43 Okay.
+18:06:47 So, let's start this again.
+18:06:52 Okay. So thing got the age of the baby this is a pictures I put a picture for you guys. Okay. The age of the baby. And this is the weight of the baby so this is your y.
+18:07:04 This is your x cap.
+18:07:08 The original formula is y equals to six plus five x so gradient descent who first of all, plot a live through your data as the first line, it's plotted before it starts to experiment with other lines.
+18:07:26 Okay. Now, that's come up with a random, random guess of a.
+18:07:34 Okay, which is two, and a random guess ob. Remember, this is the formula.
+18:07:43 This Yeah. So, a random guests for it.
+18:08:01 So in this case we're dealing with your intercept and your scope, move forward, because of time. Okay, I was going to start with a first walk you through.
+18:08:09 So I'm going to start with the first walk you through how to do P. And then what okay but we just stopped. Okay, so we are guessing you know you guys would get confused.
+18:08:21 Let's start with a first let's start with the, with the intercept. Okay, let's start with the intercept which is six. So we're just going to guess for six.
+18:08:36 So we're studying with two. Okay.
+18:08:39 And we're saying, Give me what the prediction will be.
+18:08:50 If I put as two.
+18:08:54 And I pull be as three. So replacing six, we do, or placing five with three so this is just a random guess of trying to fit the line.
+18:09:06 I wish I could draw at this point. So, what it's going to do is going to give you a prediction, saying, instead of the wit been six. I've come up with a new regression line is five.
+18:09:20 Do we understand, thumbs up, one too fast.
+18:09:26 So in this case, Let me, let me show you insert.
+18:09:32 Insert insert, maybe I can do it manually.
+18:09:37 Alright, so let's go this way.
+18:09:41 Alright, so let me move this up here so that you guys understand what I'm doing.
+18:09:46 So, in this case, we're saying, insert.
+18:09:52 God, no way to draw.
+18:09:56 In this way, we're saying, Okay, I have to make to be what I want.
+18:10:01 Instead of six or using two
+18:10:06 instead of five will using three. Okay, this is just a random guest, trying to come up with a new equation.
+18:10:13 All right, and so we're trying to calculate why. So in this case, what why give you. Does anyone want to put in the chat.
+18:10:21 So remember, x, and x is one. Okay, so why why give you can put it in the chat or you could equate out. What's the value of white powder.
+18:10:35 Perfect. Alright, so five, good.
+18:10:38 So that's why you have five Yeah, get out I'll put the solution. That's why you have five yet. Now, I'm not saying, Give me the error, the square error between the original weight, and my prediction with my new prediction waves and squared because if
+18:11:00 it's negative, I wanted to cancel out.
+18:11:03 You have one.
+18:11:05 Okay. Are we following.
+18:11:08 So this is the random guest line it's using for the state of points. And then, I'm not saying, okay,
+18:11:19 based on that. Now this is where you have to follow the kit. This is where you actually have to follow. So, not that I have that. Let me.
+18:11:30 Okay good, sorry I wasn't seeing the chat.
+18:11:33 Now that you have that, let me change the value by 0.01. So what I want to do is I want to take G, which is my, my guests value.
+18:11:47 I want to add 0.01 which is the learning rate so remember learning rate to say oh goes up by one.
+18:11:54 One seconds more, so one meters more because it's it's meters going on a 0.01 more one of us your point 01 more, because the thing is, you don't want to tell me to move this way.
+18:12:08 You don't want to tell me to move, 0.09, because I'm going to pass my laptop. So you want to start with small increments. and then you can now start changing the values.
+18:12:18 So I'm saying okay so for my random estimates of A, which is six in this way, because I have an arrow.
+18:12:27 Can you increase it by 0.01.
+18:12:32 Plus, so I put the formula here, so that you guys can see, sorry.
+18:12:37 So it's a times.
+18:12:41 Oh, sorry. It's my linear it.
+18:12:43 Yeah.
+18:12:45 So it's eight times the Lennon rate plus b times h yours you know with and square box.
+18:12:55 So that will give me my era change.
+18:12:59 Okay. And then for my era change. What I want to do next is,
+18:13:07 again, is to click the change in delta arrow, which is okay.
+18:13:15 When I told when I decided to increase my a by 0.01 and calculate what the arrow is again.
+18:13:26 Squaring that to cancel out the stuff.
+18:13:29 Tell me.
+18:13:30 Exactly.
+18:13:32 The difference between my previous arrow, and my new error.
+18:13:37 Then I get j to one, which is the square zero minus the era change divided by 0.01. Okay.
+18:13:49 Now how did I get the square arrow.
+18:13:52 So, if you go back to formula for PowerPoint PowerPoint PowerPoint.
+18:14:00 Let me show you the formula for my PowerPoints.
+18:14:07 So remember,
+18:14:18 remember this formula. This is the, Ms.
+18:14:21 So the main square error we're trying to reduce the main square error, that's our main objective. So you're squaring that to remember why one which is the new predicted, minus the original value or actual value square that because the difference might
+18:14:39 be negative, and you know one negative two cats on negative so you want to take a squat.
+18:14:44 Okay.
+18:14:46 divided by the number of records that you have. So going back to your question in the chat is, This is why I decided to square first.
+18:14:55 Okay I've set the square. The difference in arrow. And here, what I did was to say, Okay, fine. You found me. The you've increased it by 0.01. All right, I've increased by 0.01.
+18:15:10 Find me the new error.
+18:15:12 I found the new era.
+18:15:14 And then I said, Take JJ 21, which is the square era, minus the new era change that has happened.
+18:15:25 And then now give me 1.9. So as a result, I want to take the era of my new prediction. Right. The era of my new prediction.
+18:15:38 Plus, the initial guests.
+18:15:42 So, I will not take this and put a kid again. and then also do another guess, you know, don't nothing guess for for eight which is 2.02. I would also do the same thing for three.
+18:15:58 So, I will do the same thing for be what I would do is I've decided to take.
+18:16:05 g 21.
+18:16:07 Yeah, d 21 plus h two Sami cuisine this by 0.01 and multiplying that and say,
+18:16:20 gave me this five like five xbx. So, remember my be is three now, so it would be three times one, I know my go over your head.
+18:16:33 But if you understand.
+18:16:37 Oh, okay got confused with the era change.
+18:16:43 I'll explain this.
+18:16:43 Okay, let's break down the formula. Okay, so what is g 21 estimates.
+18:16:50 Right was g 21.
+18:17:01 It estimates which is your, your guests. So, let me try and break it down. So you're guessing that when a baby is born. The baby is two years, not one three years.
+18:17:04 Okay, we're just we're just making a guess that's when the baby's born it as two years nine months, three years now. I said, there was an error.
+18:17:16 When that predicted that the baby was three years, the era was was what was zero point was 1.0.
+18:17:27 Okay. So let me start again.
+18:17:34 Huh.
+18:17:35 Okay. Yeah, it's hard to teach this things online. So, take, take a barren paper that can help you say,
+18:17:49 okay, say, Original age.
+18:17:55 Okay, just write down some pocket original age is one.
+18:18:02 All right.
+18:18:13 My
+18:18:07 original age is what my guess when the baby is born, which is a estimate so right guess maybe guess
+18:18:18 when the baby is bond. I'm saying that the baby starts up to kg, not three kitchen. Okay.
+18:18:26 Now, when I decided that baby steps I took a G not three kg, and the.
+18:18:36 Oh, sorry, sorry, sorry I mixed it up.
+18:18:38 No, I didn't make stuff. Yeah, baby steps I took he now the be estimates.
+18:18:46 Think of it as the slope. So this is me just trying to make you understand. So let's say that the baby is when the baby's born. The baby's born at three months so let's just say three, again, to the baby's not been at zero mon the baby's been at three
+18:19:04 months just an example. Okay, so my y, which is my new why my prediction will be two plus three bracket one.
+18:19:18 So that's estimates, plus three equals to five. So, my new prediction, y is equal to five.
+18:19:29 Now, what was the original weight of the BB when we measured it. Initially, it was six. So my era is six minus five. Okay, equals to one. So that's the square error right here.
+18:19:44 I take a square of that, because sometimes it might be a negative value. So, it costs to one, get one times one is one. So my arrow is one. Now for the arrow change.
+18:20:00 The arrow change, listen to this the action is. I'm saying, Okay, you know what, instead of you looking at the formula.
+18:20:06 Look at this.
+18:20:13 Can you see this so pay attention to me make it a different column.
+18:20:18 Pay attention to the blue.
+18:20:19 Okay, so my era change is saying, the value of a that I guess earlier, which is two times I'm saying okay you know what that prediction was wrong. Let's go, 0.01, a new learning rate, let's let's increase the value by 0.0 was a kid.
+18:20:39 Okay, so that's two times 0.01, and brackets. All right, plus PEX member bx so we've changed what I am is by 0.01 RBX. Remember what is that if you look here.
+18:20:56 Part of me.
+18:20:58 I be x x 21 is three.
+18:21:01 So, we're just changing the value of a first so you take three. Okay. Three times, what is your age, one
+18:21:12 my knowledge, minus. So, two times your point 01 plus three, that is what's supposed to be your new Yi, your new prediction okay your new prediction, minus the original Wait, what is your original with here.
+18:21:32 The original with, which is six right six.
+18:21:37 Yeah, but it shouldn't be original it should be on. Oh, yes yes yes yes sorry yes, yes, he 21 yo I flipped it together, your original waves, which is six, and back.
+18:21:54 No no no no no no, sorry, give me a minute.
+18:22:02 Yes yes yes yes yes yes yes yes, She is supposed to take Sorry, sorry, I made a mistake. It's my. So you're supposed to take the new one, minus the original wave, which is six, five, at this point, and then squared by two.
+18:22:18 So you're taking the predicted, which is two times your point 01 plus three bracket one minus six, and then you take the square.
+18:22:43 That's 0.98 do we get that.
+18:22:34 Tom's off Sorry, I can't see you guys have to keep flip it. I could just bring the chat, it's healthy for a chat. Do we get that. So, remember what we're trying to do for for Aaron change is saying, Hey, we predicted.
+18:22:54 yeah, you know what's going to happen is that touch somebody.
+18:22:59 So we predicted. Initially, that the new estimate is five. Okay. And then I thought it was wrong because it was six stars nobody was six dot five, and I said okay fine, take the same guess I add, add 0.01 to it and give me a new era.
+18:23:19 But basically give me a new prediction. Take that prediction, my most the exact original prediction, which is six of the exact actual prediction which is six give me a new era, I scraped.
+18:23:32 So it's the same thing as this. The only difference is, I'm adding 0.01, which is my landing weights to my initial guess.
+18:23:44 You guys are still confused.
+18:23:49 So I can see you guys keep it a thumbs up if you're still confused.
+18:23:56 Soto. Okay.
+18:24:13 Um, okay let's go to be. So think of it this way.
+18:24:09 Okay, so think of it this way, let me, let me break it down.
+18:24:24 I don't affect the phone winners. So think of it. Think of it this way. I'm saying give me my new era calculation. So what I want to do is give me this.
+18:24:26 Okay, times. 0.01.
+18:24:31 This my new a. Okay. Now, this is my new a.
+18:24:37 So, don't call it new it just think of this is my new age.
+18:24:41 All right, and then I'm saying, My be, give me my initial be is three to remember before I before it was too, can you use the whiteboard and sure it's harder to use whiteboard actually
+18:25:01 board.
+18:25:07 Yeah.
+18:25:15 Okay.
+18:25:13 So nice to set for that.
+18:25:18 Okay, So,
+18:25:22 minutes that I can see the Excel file itself, and I can go along
+18:25:30 here.
+18:25:38 So, okay, so my initial stuff is six plus five x.
+18:25:46 Okay, this is my be. This is my eight. Now, I'm saying okay give me a new life. A new guest this is just guessing, I decided to go with two plus three x.
+18:26:01 Okay. Remember, for the first record, x is equal to one.
+18:26:06 So my new. Sorry, so my new prediction is called this new prediction.
+18:26:15 Okay, my new prediction when x equals two, one
+18:26:26 is five.
+18:26:28 We all good with that.
+18:26:30 Okay, so now I'm saying, what is the arrow of my new prediction so the arrow will be y minus y one squared, because it might be negative. It will be, what is initial prediction, right here.
+18:26:50 So why was because six. If you look at the documents. Okay, my initial which is six so it's six minus five.
+18:27:00 This is my arrow squared.
+18:27:08 So this is the arrow between my actual.
+18:27:12 And my predicted. Okay, this is what I know, say, okay, because it's one.
+18:27:19 There is still a difference. How about I increase this new a with 0.01, it's a learning rate. It's okay. Keep going. One more step one more step. Maybe we will get closer to six.
+18:27:31 So, my new Yi is two times, 0.01, sorry two plus 0.01.
+18:27:48 So, this is my new a.
+18:27:52 Okay, so if you go back to the Excel sheet look up the formula.
+18:27:58 Right.
+18:28:00 So it's sorry I'm trying to see you guys. Okay. So, plus.
+18:28:08 Last, what's my be. It's still my original guests on my B plus three.
+18:28:14 All right, and broadcast the age, which is x one.
+18:28:24 Okay. Now, what's my new Yi.
+18:28:43 That's. Um, so I want to do that, let me just pull up my calculator.
+18:28:43 This one and give me that its own calculate that in the chat.
+18:28:41 And just spit it out.
+18:28:43 Sorry.
+18:28:47 What's it.
+18:28:50 Two plus 0.01 plus three.
+18:29:01 Explain 9898 Thank you.
+18:29:03 Okay.
+18:29:05 At what point it. Now, if you go back
+18:29:11 to era change.
+18:29:23 If you go back to era change. Let me show you
+18:29:30 what I just explained.
+18:29:33 Okay, was jitsu to plus 0.01, the learning with plus x two one, my estimate times what times each one, which is x. OK, minus f 21, which is my original waves.
+18:29:57 Give me the square error to find the error of my new Yi.
+18:30:05 Okay.
+18:30:07 So, it's the way it's written the supposed to be, you know, let me do this way.
+18:30:16 Sometimes the chat, then.
+18:30:20 Okay.
+18:30:22 All right, good.
+18:30:29 Yeah.
+18:30:30 Okay.
+18:30:32 Do we see, do we get it now.
+18:30:37 So, what this is now the. Exactly. So now this is not the new era when you decided to increase n by 0.01. And then, you now say Okay, give me the difference between the original arrow, I had, minus the new arrow, divide by 0.01, because I'm trying to
+18:30:58 go more increments. Okay, then I'll say okay fine. This is the difference between the first arrow. My second arrow prediction. Okay, let's take the original value and add more.
+18:31:09 All right, so you asked to actually do this so you not take this new value, and put it as your new.
+18:31:15 So the thing is, you're trying to reduce this particular error. That's what you're trying to do. Now, let me get to the point fast.
+18:31:26 You're not to do everything the same way you get new areas.
+18:31:29 You get new air you add the era to your to your to your point to that it becomes that if you have 1 million data set. so we're gonna take time. Like, you won't be able to start competing in new.
+18:31:46 Just like Remember what I said, this is, this is my, my laptop, you'll never know if I had a million steps to take. I won't be glad your
+18:32:02 point 01 0.0 0.01 0.01 me while I'm still far away from my laptop, so you might see if I'm at the door, and you're telling me to keep going. One more step one more step one more step I'm going to run out of time, competing pop, all of that.
+18:32:13 So, another thing that you can actually decide to do is to say, okay, instead of 0.01, this formula will not change it because it's hard coded.
+18:32:23 And it shouldn't be at coded.
+18:32:25 So instead of saying 0.01, you cannot change this to 0.02.
+18:32:33 Right. This is going to change.
+18:32:36 Yeah, cuz I'm codec so you will not change but anyway. You can tell me oh god 0.0 2am I still be far away. Okay, what is that what's your point 03, okay, I'm still far away, but if I go 0.19.
+18:32:54 Then I passed my laptop, which is the main.
+18:32:57 Think of it as the best point I'm supposed to be. So the issue goes in, how did you come about how to tell your your your your model to keep iterating.
+18:33:10 There's something called batch.
+18:33:11 Okay, there's something called batch. So think of batch, and this one is still the same method, but you pick the first two data points in your data set.
+18:33:21 The first two. So, this one and this one you pick the first two, then you calculate the error.
+18:33:27 Okay, you do one by one you calculate the error. Then you some the arrow for those first two, instead of doing it one by one, take the first record find the error added to the next one.
+18:33:39 What you do is you take your, your original data set, take the first two rows. Give me the first two predictions bright random predictions the same thing, 2323, then Catholics, whoops.
+18:33:55 Yeah, then calculate the era change, and the squared arrow.
+18:34:01 Okay, now calculate the Delta arrow which is the initial OSU pattern the pattern the pattern me.
+18:34:11 Come on.
+18:34:14 Okay.
+18:34:19 So I will let them move to Python code to this, okay, and it's easy item but I'm trying to make you understand concepts. So, you say okay fine let me take the first two data points so the first two babies out been.
+18:34:33 I'm going to take the age and go wait. Okay. Random to just see two babies just say okay give me those two babies. This is the age, this is the a week.
+18:34:56 out, I would assume that's who they are still with, I don't care. And that's, that's no way, and that's the age, then you will solve the arrows you find you some.
+18:35:17 you decided to sell 0.01, then you find the data era of costs. And then you take the 2.27, and use that for your next three to four data points. So think of it as a batch of calculating the errors based on batch.
+18:35:27 Now this is another way to do it, but a better way. If you have to do this 50 times.
+18:35:36 You're going to get tired, So let's go back here.
+18:35:40 Okay, let's go back here.
+18:35:44 Okay, I've already explained all of this to you.
+18:35:47 So, again, update add value.
+18:35:51 Is this how you found 2.28 how they came up with the new one is here.
+18:35:57 And then you keep doing it so you're learning which is telling us how much more to add, how much more to add.
+18:36:12 All right, so you can increase yours by 0.05, so I'm going to put the solution, play around with the bodies. All right. Now, the author gradient optimizes, but I won't go into it.
+18:36:20 So let's see how it's done in Python. Okay, so go back to DC connects.
+18:36:26 First of all, any questions, go back to DC Connect.
+18:36:34 If you watch the video I post that you should be able to understand it better.
+18:36:41 Okay, so, again, I don't know if you guys. Oh, okay. Go ahead. Well it.
+18:37:02 Nice, huh. Two plus 0.01. That's true.
+18:37:07 Okay, come so what I did is I got 0.98 so I was confused and which one direction so I didn't two plus 0.01.
+18:37:20 Dan, I'm not sorry, not times. Yeah, plus a plus.
+18:37:43 plus. Yes, then plus the age 21 that's three, three times into one minus f 21 squared, did you take a square.
+18:37:40 Okay, Okay, okay. So remember, square error, but because Eric can be negative so you want to take the square.
+18:37:49 Okay. Okay, get it now. Yeah, it does happen, so that's why you always want to take this guy just to cancel out.
+18:37:56 You know, if it's mine also, or if it's mine also know that, okay.
+18:38:01 You're welcome. Okay, I think I'm happy that some of you, I guess. Because last class was wasn't wasn't was very boring. So like okay I'm gonna try and make it easy.
+18:38:14 But the thing is, you have to go back and read, like, you won't get it, you can understand that concept in the first two hours before you to keep practicing you have to go back and reread it, and I can post a link to an article that will break it extremely
+18:38:30 down for you get after class, but go to good and decent basic example one.
+18:38:36 So,
+18:38:40 first of all let me, upload solution to what we just did the Excel document
+18:38:55 to four. Yeah.
+18:39:01 Okay, so, chat open this file Python gradient descent basic so now we've seen out with an Excel. We're going to see how to do it in Python. Okay, go ahead.
+18:39:13 CD hot so, teach me how to pronounce the name. I'm sorry.
+18:39:19 Oh, so let's also have you pronounce your name cycle, I pronounce it right next to see dot. Okay, got it.
+18:39:28 So like I calculate the Delta.
+18:39:33 So the new a will be two plus 0.02.
+18:39:39 Yes.
+18:39:41 And then we'll repeat the same, same method again.
+18:39:45 Yes, exactly. And you do the same thing for be, so it's like you're picking new guesses. But then taking the arrow between your guests.
+18:39:55 And the, the arrow between your gas and the original one, and increasingly by 0.01.
+18:40:06 Okay, that's that's exactly the basic thing.
+18:40:08 It's like taking assigning a random value. So, think of it you have all of this data points.
+18:40:16 Okay, let me think of it this way what, yes. Think of it this way.
+18:40:26 Oh, so think of it as this.
+18:40:30 You have all those data points. Okay.
+18:40:37 You start with this is your initial light when you did the initial plotting remember the scatter plot I told you guys to have fitted line. This is the initial line of, like, of that.
+18:40:48 Okay, now you're gradient descent. Now say what if I go, Joe point one forward. Oh, there's a big arrow. Now I need to reduce this arrow right to so that I can get all the points, then it goes okay decrease or increase it again.
+18:41:08 Sorry, increase or decrease it again by going this way.
+18:41:12 Oh, the arrows reduce, then it starts to tell itself. That's what they use it to neural net. Okay, what if I go to sweet.
+18:41:20 Oh, the arrows beef. What do you find good. This way, so it's just taking iterations from your data set, taking like samples from your data set and plotting the new life and try to see what is the error between what I'm predicting, and what the actual
+18:41:37 theme is, and then try to just keep going. So, if you look at the Excel sheet we just stopped at 10, you can go to like 50. The main thing is you want to stop.
+18:41:47 When you reduce the error as much as possible. But one thing to note is this. When do you know when to stop.
+18:41:55 You know, and to stop so your flight overfitting. So imagine if we have a data point like this.
+18:42:03 And then, it fits the line, this way. Okay, it fits the line, this is it fits this line. All right, It's not correct it fits this line. Now this is the line.
+18:42:14 This is the initial line.
+18:42:24 If it's just like, oh, there is a big arrow between this and this. It fits this line, it's like okay it's close. What if you have a linear regression, where this is the line, it's a polynomial regression.
+18:42:33 Right.
+18:42:34 So the thing is, it will keep trying to fit everything, but if you fit all the data points within that particular line. You got to lend the nice.
+18:42:47 I'll make it easy. Don't worry. So, I've we all download that the the Python file from here.
+18:42:57 Sorry it worries that.
+18:42:59 Yeah, this one good and decent basic example. Let me open mine up to four for this one.
+18:43:10 Okay.
+18:43:12 So I'm going to explain what the squad is now stay with me. If you, if you're confused, put in the chat see started Get Started get.
+18:43:22 So in this case, why what is the meal is our new prediction, I guess, get, I guess is why what now.
+18:43:32 You always want to assign an intercepts to why what remember six in this point was an intercept, right.
+18:43:41 Let me change it back.
+18:43:44 So remember, intercept yet.
+18:43:49 User right what is six. Okay, so five by interceptor is six.
+18:43:56 Let me draw this together. So, This is the formula.
+18:44:01 Now I just have day six, but for the sake of this data itself just think of Yi is, is the intercept. So, just hold it, hold it. Okay.
+18:44:15 Now, this is the linear equation. I always put it everywhere. Now this is my guess, 0.4 and 0.8.
+18:44:24 All right, I'm guessing that the intercept is 0.4 now instead of six, and I'm guessing that the slope, that's the width of x is 0.8. Okay, so I wrote called extreme what the code is.
+18:44:42 Hold on.
+18:44:44 I wrote a code to say hey, give me a prediction for each role.
+18:44:49 Right, give me a new wife for each role. Okay, So, my new I have to assign zero, because it's an array. Okay, it's it's an area, so it old that. Now I'll say for each line in the data sets or each role in the datasets.
+18:45:08 Give me a new prediction. So, remember I signed zero to my coefficients which is six, because you need to keep adding stuff to it. So, it's 0.4 plus 0.8 but I need something to hold, whatever new predictions I have so I just gave it to just to narrate
+18:45:31 create an array for me.
+18:45:33 an array for me. And then I said, I want to the coin value in why what and multiply by two, you know, but this is just high breakdown so look up to this week in the questions, which is my new.
+18:45:50 Why, what I'm saying is, take a look through the table itself. At one times the role number in that so this is just me coming up and then return what the new prediction is.
+18:46:06 OK, so this is my dataset. This is my coefficient, which is my new guesses. And then I said for each role predicts what it is. Okay, and then give me three decimal places.
+18:46:22 So, roll minus one is row minus one is the color. Okay, the column, 13321. So that's my second column.
+18:46:36 Come out why what is my predicted what is the new predictive value just had calculated my new predicted. So, if you want to solve if.
+18:46:46 Looking at the cord, it is i. So, one.
+18:46:54 I okay so let's start with, it's an array so zero. So zero plus one times.
+18:47:04 00.
+18:47:05 I go to iTunes. Okay, I to row two. So two plus one times one,
+18:47:17 three,
+18:47:21 sorry. Yeah, three, so that's just like it will meet explaining what this function is, but at the end of the day what you want to do is saying, Hey, give me.
+18:47:35 Why watts, which is my prediction, which is one point to the yy predict get to the wire will predict at 3.6. So why are predicted to point it. I predict that 4.4.
+18:47:51 So what I'll have you guys do is shutter change 0.4 to a new guests.
+18:47:59 Let's say job, one, two, and show point two.
+18:48:03 I want to copy this one.
+18:48:11 Okay, so this is when my initial prediction.
+18:48:22 My initial guests. All right.
+18:48:25 Oh,
+18:48:30 and be as it goes by.
+18:48:49 For sure point eight. Okay, so I've changed my coefficients which are my guess is now.
+18:48:47 You see that it's predicted so far away from the actual values.
+18:48:55 Alright so let's see if we increase it more than 0.4, because your point phone was closer so let's see if it is your point five.
+18:49:05 And 0.6 so what 10 leads Hey, from the initial prediction goes 0.01 more for both of them statistics 0.9. Let's see if he's going to give me something.
+18:49:25 1.5 2.33 4.1, are you saying that the model is actually worse. Well, it's kind of worse because if you look at the errors.
+18:49:32 One minus 1.4 took the square of that because you don't want to negative three minus 2.3, take the square three minus 4.1, you see that it's not actually the best line.
+18:49:56 So, I'm all decided that don't get confused yet don't get confused yet so and I wrote a quote that says, okay, instead of me, changing it manually myself because of time I'll be able to fully explain the call was was finished by seven.
+18:50:03 What I wanted to do is assigned zero as a coefficient I looked through the data sets.
+18:50:10 Lemon rates, which was 0.01, I'm calling it a Porsche. Ok. So, number of iterations to go through. I'm trying to go through 50 integrations, of what we did in Excel.
+18:50:23 Give me 50 times. All right, and then get click the some of the era.
+18:50:30 Remember, take the predicted minus the original values squared, and then give me take that as a nuclear fission running again. 50 times just to whatever it so I run this.
+18:50:47 So, it will then start zero.
+18:50:51 It will start from zero to 50, so this is actually going to run 50 times you're going to see result 50 times but you would have to wait, and I don't have time to wait because this was finished by seven get.
+18:51:05 So, what advice is, take what advice is take this basic example, try to start changing. Is it 50 times a day to give you 30 times. Okay, look at what the rate is the error rate is.
+18:51:23 As you see if it was larger when you change the question, yes you can change your guests. See, tell you to go 50 times see what the error rate is or what you can do is leave your guesses the way there are changing number of times he runs, if I tell you
+18:51:38 If I tell you to run 100 times wouldn't give me the least amount of errors. Okay, so what happens is it plateaus, they start to show you, as, as you keep going.
+18:51:49 So think of gradient steps, defense, it starts to go, it starts to go as it gets to a point to give you the minimum error, ever. Now, if you don't stop there and you continue is the arrow now starts to go up again, again and again.
+18:52:03 So you definitely peak, where the line was lowest with the lowest errors, and then you continue.
+18:52:10 Any questions. I know it's.
+18:52:14 I really tried my best to make it like to break it down for you, for you guys. It's harder to teach veteran, but I hope like you've been able to get the concept of what it is.
+18:52:27 Now I'm going to post another code that actually uses the real data sets.
+18:52:34 So, you can start to change the iterations in the data set. You can also change your guesses.
+18:52:41 All right. And once I post that and I'm going to post.
+18:52:46 I'm going to post a helpful material that can help you understand this, again, using another data set.
+18:52:54 And what I would advise is try to grab different data sets that you see, and run you through this example just change the data set name.
+18:53:06 Look through the data and make sure that there's no more to connect to me, someone to coordinate, there's no outliers, and then run it through. So, another thing I would advise is go back to
+18:53:22 Week. Yes, choose this slide.
+18:53:26 I've written how to perform a linear regression.
+18:53:29 Okay, so I will say, Follow the steps. Okay I put actually puts links for you to go through it. And then once you're done here. Now, take the court for the gradient descent.
+18:53:52 Run it against your linear regression and see if it gives you a better model.
+18:53:58 And let me know. Okay, so my.
+18:54:07 What's the thing called my office hours is three to four on Fridays. I can also bring an example to to my office hours of a real dataset, run you guys through how it works.
+18:54:16 And then we move on because to us it's too small.
+18:54:20 Had it.
+18:54:22 Hello.
+18:54:28 oik if you're talking.
+18:54:30 Okay, any questions.
+18:54:39 Any questions.
+18:54:43 No, ma'am.
+18:54:43 Okay.
+18:54:44 Is it, it's very complicated, yes or no but it comes off.
+18:54:49 If it is
+18:54:52 ok. Ok, I see.
+18:54:55 Alright so what I would do. I will look for that helpful article. I'm going to, and you have to watch it. You're going to watch the video, you're going to read the article, you will you're going to do is just run code and see the difference.
+18:55:09 Okay. And you have to practice Yeah, that's the thing you have to practice. So
+18:55:19 I'm looking for the easiest way to help you guys is.
+18:55:26 You know what I will do during my office hours, I will run through a real example.
+18:55:32 And then I would, I would have another solution that I've developed, I will give you guys a data set, and say hey, try to run to run what I've done against this dataset.
+18:55:46 Let me see what you come up with. Okay.
+18:55:50 So I think that should be helpful.
+18:55:54 Anyways, I hope this class was more interesting than the last class.
+18:55:59 You could put a Tom's off, so that I know if I should bring more practical, or more theories.
+18:56:07 Okay.
+18:56:09 Yeah, okay. Okay, so please fill in the fill in the form and again remember what I said at the beginning of class, try to read a textbook or try to look for video on gradient descent, before you come to class, else.
+18:56:23 It's gonna fly over you.
+18:56:25 Okay.
+18:56:29 All right. If you have any questions to send me an email.
+18:56:37 Try to come to my office hours we will take this again.
+18:56:36 All right. We will do it again, will try to understand, but we'll be doing it this time with Python so don't worry about the Excel, Excel, just to show you how it works.
+18:56:46 All right.
+18:56:49 Okay.
+18:56:51 Thank you everyone.
+18:56:53 Have a good night.
+18:56:57 Thank you.
